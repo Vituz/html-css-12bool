@@ -23,6 +23,7 @@
     float: left;
     background-color: #FFC0CB;
     border: 1px solid black;
+    line-height: 200px;
 }
 
 .dbg [class*=".col-"]{
@@ -32,31 +33,26 @@
 .col-1{
     width: calc((100% / 12) * 1);
     text-align: center;
-    line-height: 200px;
 }
 
 .col-2{
     width: calc((100% / 12) * 2);
     text-align: center;
-    line-height: 200px;
 }
 
 .col-6{
     width: calc((100% / 12) * 6);
     text-align: center;
-    line-height: 200px;
 }
 
 .col-8{
     width: calc((100% / 12) * 8);
     text-align: center;
-    line-height: 200px;
 }
 
 .col-12{
     width: calc((100% / 12) * 12);
     text-align: center;
-    line-height: 200px;
 }
 
 .nested{
